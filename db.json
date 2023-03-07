@@ -1,0 +1,34 @@
+{
+  "projetos": [
+    {
+      "id": 1,
+      "name": "A project based in netflix to train react Rooks",
+      "img": "",
+      "link": "https://estudo-net-flix.vercel.app/"
+    },
+    {
+      "id": 2,
+      "name": "Project developed for housing management",
+      "img": "",
+      "link": "https://habits-web-ten.vercel.app/"
+    },
+    {
+      "id": 3,
+      "name": "A pokédex created with Reactjs to practice",
+      "img": "",
+      "link": "https://pokedex-pokeapi-two.vercel.app/"
+    },
+    {
+      "id": 4,
+      "name": "a project created based on a class from alura courses",
+      "img": "",
+      "link": "https://organo-alura-cursos.vercel.app/"
+    },
+    {
+      "id": 5,
+      "name": "shortly",
+      "img": "",
+      "link": "https://pokedex-pokeapi-two.vercel.app/"
+    }
+  ]
+}
