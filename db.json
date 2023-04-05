@@ -20,24 +20,24 @@
     },
     {
       "id": 4,
-      "name": "a project created based on a class from alura courses",
+      "name": "A project created based on a class from alura courses",
       "img": "https://live.staticflickr.com/65535/52731979607_7d7910f3b5_b.jpg",
       "link": "https://organo-alura-cursos.vercel.app/"
     },
     {
       "id": 5,
-      "name": "a project created based on a class from alura courses",
+      "name": "A project created based on a class from alura courses",
       "img": "https://live.staticflickr.com/65535/52732998033_916b11e7cb_c.jpg",
       "link": "https://cinetag-beige.vercel.app"
     },  {
       "id": 6,
-      "name": "a portifolio like this, but now in nextjs",
+      "name": "A portifolio like this, but now in nextjs",
       "img": "https://live.staticflickr.com/65535/52732786949_6b2ba6c337.jpg",
       "link": "https://portifolionext.vercel.app"
     },
     {
       "id": 7,
-      "name": "Aluroni",
+      "name": "A project based on a class from alura courses",
       "img": "https://live.staticflickr.com/65535/52796415508_0644f50f08.jpg",
       "link": "https://aluroni-curso-ts.vercel.app/"
     },
